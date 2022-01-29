@@ -8,3 +8,4 @@ print("Keliling bujur sangkar tersebu : ", keliling)
 print("Luas bujur sangkar tersebut : ", luas)
 
 
+print("Muhammad Irsyad Kamal Fannan")
